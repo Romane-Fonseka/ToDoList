@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="to_do_app">To Do List</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="save">Save</string>
+    <string name="to_do_tasks">To Do Tasks</string>
+    <string name="tasks">Tasks</string>
+    <string name="fab_content_description">Add Task</string>
+    <string name="this_is_task_1">This is Task 1</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="mainactivity">.MainActivity</string>
+    <string name="splashtext">splashtext</string>
+    <string name="logo">logo</string>
+</resources>
